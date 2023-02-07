@@ -1,3 +1,3 @@
 ##git config
-# Aiffel-Project_1
-# Study
+# Aiffe Exploration 프로젝트
+
