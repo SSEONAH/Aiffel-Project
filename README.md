@@ -2,6 +2,7 @@
 
 
 ### Exploration
+* 1 ~ 12 project 파일 날아감..
 -----
 
 | Num. | Description                                      | Link        |
@@ -18,9 +19,9 @@
 | 10              |  영화리뷰 텍스트 감성분석하기  | [Link]
 | 11              |인물사진을 만들어 보자  |[Link]
 | 12              |번역기를 만들어보자  |[Link]
-| 13              | 인공지능으로 세상에 없던 새로운 패션 만들기 |[Link]
-| 14              | 뉴스 요약봇 만들기 |[Link]
-| 15              |  아이유팬이 좋아할 만한 다른 아티스트 찾기|[Link]
-|16               | 트랜스포머로 만드는 대화형 챗봇 | [Link]
-|17               | 문자를 읽을 수 있는 딥러닝 | [Link]
-|18               | 난 스케치를 할 테니 너는 채색을 하거라| [Link]
+| 13              | 인공지능으로 세상에 없던 새로운 패션 만들기 |[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_11_.ipynb)       |
+| 14              | 뉴스 요약봇 만들기 |[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_12_.ipynb)       |
+| 15              |  아이유팬이 좋아할 만한 다른 아티스트 찾기|[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_13_.ipynb)       |
+|16               | 트랜스포머로 만드는 대화형 챗봇 |[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_14_.ipynb)       |
+|17               | 문자를 읽을 수 있는 딥러닝 |[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_15_.ipynb)       |
+|18               | 난 스케치를 할 테니 너는 채색을 하거라|[Link](https://github.com/SSEONAH/Aiffel-Project/blob/96d5ce54f80ff80d10f617225990480ac5476c63/EX_16%20(1).ipynb)       |
